@@ -1,5 +1,5 @@
-function isJesusTest(input) {
-  return input === 'JesusTest';
+function isJesusTest (input) {
+  return input === 'JesusTest'
 }
 
-module.exports = isJesusTest;
+module.exports = isJesusTest
