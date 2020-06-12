@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint index.js",
-    "lint:fix": "eslint --fix index.js"
+    "lint:fix": "eslint --fix index.js",
+    "cest": "jest --collectCoverage"
   },
   "repository": {
     "type": "git",
